@@ -1,0 +1,14 @@
+layout_spectrum: 0.16030969098210335
+typography_spectrum: 0.5339707240927964
+color:
+  brandStrength: 0.4522462207823992
+  lightness: 0.0339286255184561
+  saturation: 0.7072168737649918
+  rhythmicContrast: 0.08416194655001163
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: RAIDBOXES
